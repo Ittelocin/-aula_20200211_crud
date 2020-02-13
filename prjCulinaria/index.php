@@ -55,7 +55,7 @@ header("Location:login.php"); //header redireciona para outra pagina
   </nav>
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/moqueca-de-peixe.jpg')">
+  <header class="masthead" style="background-image: url('img/comida.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
